@@ -15,6 +15,6 @@ This project is built to demonstrate CRUD operations, authentication, and integr
 ---
 
 ## 🛠 Tech Stack
-**Frontend:** React.js, Axios, React Router, TailwindCSS/Bootstrap  
-**Backend:** Spring Boot (Java) OR Node.js/Express.js  
-**Database:** MySQL / MongoDB  
+**Frontend:** React.js, Axios, React Router, Bootstrap  
+**Backend:**  Node.js/Express.js  
+**Database:** MySQL   
