@@ -1,0 +1,13 @@
+body {
+  background-color: #f8f9fa;
+}
+
+#add-blog {
+  font-weight: bold;
+  color: #343a40;
+}
+
+.inner-div {
+  background-color: #fff;
+  border-radius: 10px;
+}

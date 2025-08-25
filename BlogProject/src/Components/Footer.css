@@ -1,0 +1,22 @@
+/* Ensures full height for layout */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+/* Wrapper to manage flex layout */
+.app-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Grows to push footer down */
+.content {
+  flex: 1;
+}
+
+/* Optional: Center content inside footer */
+.footer-container {
+  text-align: center;
+}
